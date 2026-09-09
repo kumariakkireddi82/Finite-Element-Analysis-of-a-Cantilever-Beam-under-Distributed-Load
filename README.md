@@ -1,0 +1,2 @@
+# Finite-Element-Analysis-of-a-Cantilever-Beam-under-Distributed-Load
+This project presents a detailed FEM of a cantilever beam subjected to a uniformly distributed transverse load using a two-dimensional plane stress formulation. The rectangular domain is discretized using four-node bilinear quadrilateral elements, and  computational code developed to allow flexibility in geometry and mesh refinement.
